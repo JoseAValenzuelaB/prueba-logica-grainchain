@@ -51,7 +51,7 @@ Salir.
 
 3. La opción cero termina la ejecución de la aplicación.
 
-NOTA: En el resultado las bombillas se representan como asteriscos (*) y las celdas ilumindas con guines (-)
+NOTA: En el resultado las bombillas se representan como asteriscos (*) y las celdas ilumindas con guiones (-)
 
 ## Ejemplos de "Habitaciones".
 En el archvo ejemplos.txt se encuentran diferentes habitaciones para realizar pruebas.
