@@ -1,0 +1,25 @@
+{
+  "name": "prueba-logica-grainchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimizeRoom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/JoseAValenzuelaB/prueba-logica-grainchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/JoseAValenzuelaB/prueba-logica-grainchain/issues"
+  },
+  "homepage": "https://gitlab.com/JoseAValenzuelaB/prueba-logica-grainchain#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3"
+  }
+}
